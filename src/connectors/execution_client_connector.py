@@ -452,10 +452,13 @@ class ExecutionClientConnector:
                     batch_to_block = to_block
 
             except ValueError as e:
-                # change batch intervall if intervall is bigger than limits
-                batch_from_block = int(e.args[0]["data"]["from"], 16)
-                batch_to_block = int(e.args[0]["data"]["to"], 16)
-                pass
+                if e.args[0]["code"] == -32603:
+                    pass
+                elif e.args[0]["code"] == -32005:
+                    # change batch intervall if intervall is bigger than limits
+                    batch_from_block = int(e.args[0]["data"]["from"], 16)
+                    batch_to_block = int(e.args[0]["data"]["to"], 16)
+                    pass
 
         return contract_event_list
 
