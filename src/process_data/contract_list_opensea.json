@@ -1,0 +1,402 @@
+[
+    {
+        "name": "CryptoPunks",
+        "address": "0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB"
+    },
+    {
+        "name": "BoredApeYachtClub",
+        "address": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D"
+    },
+    {
+        "name": "MutantApeYachtClub",
+        "address": "0x60E4d786628Fea6478F785A6d7e704777c86a7c6"
+    },
+    {
+        "name": "Otherdeed",
+        "address": "0x34d85c9CDeB23FA97cb08333b511ac86E1C4E258"
+    },
+    {
+        "name": "Azuki",
+        "address": "0xED5AF388653567Af2F388E6224dC7C4b3241C544"
+    },
+    {
+        "name": "CloneX",
+        "address": "0x49cF6f5d44E70224e2E23fDcdd2C053F30aDA28B"
+    },
+    {
+        "name": "Moonbirds",
+        "address": "0x23581767a106ae21c074b2276D25e5C3e136a68b"
+    },
+    {
+        "name": "Wrapped Cryptopunks",
+        "address": "0xb7F7F6C52F2e2fdb1963Eab30438024864c313F6"
+    },
+    {
+        "name": "Doodles",
+        "address": "0x8a90CAb2b38dba80c64b7734e58Ee1dB38B8992e"
+    },
+    {
+        "name": "BoredApeKennelClub",
+        "address": "0xba30E5F9Bb24caa003E9f2f0497Ad287FDF95623"
+    },
+    {
+        "name": "PudgyPenguins",
+        "address": "0xBd3531dA5CF5857e7CfAA92426877b022e612cf8"
+    },
+    {
+        "name": "Meebits",
+        "address": "0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7"
+    },
+    {
+        "name": "Beanz",
+        "address": "0x306b1ea3ecdf94aB739F1910bbda052Ed4A9f949"
+    },
+    {
+        "name": "Cool Cats",
+        "address": "0x1A92f7381B9F03921564a437210bB9396471050C"
+    },
+    {
+        "name": "MechMinds",
+        "address": "0x31d843b99c2c4088cD20D96EF2426673b958Ff70"
+    },
+    {
+        "name": "World Of Women",
+        "address": "0xe785E82358879F061BC3dcAC6f0444462D4b5330"
+    },
+    {
+        "name": "0N1 Force",
+        "address": "0x3bf2922f4520a8BA0c2eFC3D2a1539678DaD5e9D"
+    },
+    {
+        "name": "Loot",
+        "address": "0xFF9C1b15B16263C61d017ee9F65C50e4AE0113D7"
+    },
+    {
+        "name": "Cryptoadz",
+        "address": "0x1CB1A5e65610AEFF2551A50f76a87a7d3fB649C6"
+    },
+    {
+        "name": "VeeFriends",
+        "address": "0xa3AEe8BcE55BEeA1951EF834b99f3Ac60d1ABeeB"
+    },
+    {
+        "name": "mfer",
+        "address": "0x79FCDEF22feeD20eDDacbB2587640e45491b757f"
+    },
+    {
+        "name": "Milady",
+        "address": "0x5Af0D9827E0c53E4799BB226655A1de152A425a5"
+    },
+    {
+        "name": "goblintown",
+        "address": "0x8c6dEf540b83471664Edc6d5Cf75883986932674"
+    },
+    {
+        "name": "Opepen Edition",
+        "address": "0x6339e5E072086621540D0362C4e3Cea0d643E114"
+    },
+    {
+        "name": "Bored Ape Chemistry Club",
+        "address": "0x22c36BfdCef207F9c0CC941936eff94D4246d14A"
+    },
+    {
+        "name": "TOPIA Worlds",
+        "address": "0x8D9710f0e193d3f95c0723eAAF1A81030Dc9116D"
+    },
+    {
+        "name": "HAPE PRIME",
+        "address": "0x4Db1f25D3d98600140dfc18dEb7515Be5Bd293Af"
+    },
+    {
+        "name": "RTFKT - MNLTH",
+        "address": "0x86825dFCa7A6224cfBd2DA48e85DF2fc3Aa7C4B1"
+    },
+    {
+        "name": "Checks",
+        "address": "0x34eEBEE6942d8Def3c125458D1a86e0A897fd6f9"
+    },
+    {
+        "name": "Invisible Friends",
+        "address": "0x59468516a8259058baD1cA5F8f4BFF190d30E066"
+    },
+    {
+        "name": "RENGA",
+        "address": "0x394E3d3044fC89fCDd966D3cb35Ac0B32B0Cda91"
+    },
+    {
+        "name": "Sorare",
+        "address": "0x629A673A8242c2AC4B7B8C5D8735fbeac21A6205"
+    },
+    {
+        "name": "MekaVerse",
+        "address": "0x9A534628B4062E123cE7Ee2222ec20B86e16Ca8F"
+    },
+    {
+        "name": "Art Gobblers",
+        "address": "0x60bb1e2AA1c9ACAfB4d34F71585D7e959f387769"
+    },
+    {
+        "name": "Emblem Vault V2",
+        "address": "0x82C7a8f707110f5FBb16184A5933E9F78a34c6ab"
+    },
+    {
+        "name": "SewerPass",
+        "address": "0x764AeebcF425d56800eF2c84F2578689415a2DAa"
+    },
+    {
+        "name": "projectPXN",
+        "address": "0x160C404B2b49CBC3240055CEaEE026df1e8497A0"
+    },
+    {
+        "name": "FLUF",
+        "address": "0xCcc441ac31f02cD96C153DB6fd5Fe0a2F4e6A68d"
+    },
+    {
+        "name": "Karafuru",
+        "address": "0xd2F668a8461D6761115dAF8Aeb3cDf5F40C532C6"
+    },
+    {
+        "name": "Captainz",
+        "address": "0x769272677faB02575E84945F03Eca517ACc544Cc"
+    },
+    {
+        "name": "Hashmasks",
+        "address": "0xC2C747E0F7004F9E8817Db2ca4997657a7746928"
+    },
+    {
+        "name": "Moonbirds Oddities",
+        "address": "0x1792a96E5668ad7C167ab804a100ce42395Ce54D"
+    },
+    {
+        "name": "Potatoz",
+        "address": "0x39ee2c7b3cb80254225884ca001F57118C8f21B6"
+    },
+    {
+        "name": "RTFKT - CloneX",
+        "address": "0x348FC118bcC65a92dC033A951aF153d14D945312"
+    },
+    {
+        "name": "CyberBrokers",
+        "address": "0x892848074ddeA461A15f337250Da3ce55580CA85"
+    },
+    {
+        "name": "Nakamigos",
+        "address": "0xd774557b647330C91Bf44cfEAB205095f7E6c367"
+    },
+    {
+        "name": "Creepz by OVERLORD",
+        "address": "0x5946aeAAB44e65Eb370FFaa6a7EF2218Cff9b47D"
+    },
+    {
+        "name": "Creature World",
+        "address": "0xc92cedDfb8dd984A89fb494c376f9A48b999aAFc"
+    },
+    {
+        "name": "ThreeLanders",
+        "address": "0x3248e8bA90FAcC4fdD3814518c14F8Cc4D980E4B"
+    },
+    {
+        "name": "Phanta Bear",
+        "address": "0x67D9417C9C3c250f61A83C7e8658daC487B56B09"
+    },
+    {
+        "name": "V1 Cryptopunks (Wrapped)",
+        "address": "0x282BDD42f4eb70e7A9D9F40c8fEA0825B7f68C5D"
+    },
+    {
+        "name": "DeadFellaz",
+        "address": "0x2acAb3DEa77832C09420663b0E1cB386031bA17B"
+    },
+    {
+        "name": "Rektguy",
+        "address": "0xB852c6b5892256C264Cc2C888eA462189154D8d7"
+    },
+    {
+        "name": "VeeFriends Series 2",
+        "address": "0x9378368ba6b85c1FbA5b131b530f5F5bEdf21A18"
+    },
+    {
+        "name": "KaijuKingz",
+        "address": "0x0c2E57EFddbA8c768147D1fdF9176a0A6EBd5d83"
+    },
+    {
+        "name": "PROOF Collective",
+        "address": "0x08D7C0242953446436F34b4C78Fe9da38c73668d"
+    },
+    {
+        "name": "Lazy Lions",
+        "address": "0x8943C7bAC1914C9A7ABa750Bf2B6B09Fd21037E0"
+    },
+    {
+        "name": "World Of Women Galaxy",
+        "address": "0xf61F24c2d93bF2dE187546B14425BF631F28d6dC"
+    },
+    {
+        "name": "Cool Pets",
+        "address": "0x86C10D10ECa1Fca9DAF87a279ABCcabe0063F247"
+    },
+    {
+        "name": "Sappy Seals",
+        "address": "0x364C828eE171616a39897688A831c2499aD972ec"
+    },
+    {
+        "name": "ALIENFRENS",
+        "address": "0x123b30E25973FeCd8354dd5f41Cc45A3065eF88C"
+    },
+    {
+        "name": "Prime Ape Planet",
+        "address": "0x6632a9d63E142F17a668064D41A21193b49B41a0"
+    },
+    {
+        "name": "The Doge Pound",
+        "address": "0xF4ee95274741437636e748DdAc70818B4ED7d043"
+    },
+    {
+        "name": "HV-MTL",
+        "address": "0x4b15a9c28034dC83db40CD810001427d3BD7163D"
+    },
+    {
+        "name": "CyberKongz",
+        "address": "0x57a204AA1042f6E66DD7730813f4024114d74f37"
+    },
+    {
+        "name": "SuperNormal",
+        "address": "0xb0640E8B5F24beDC63c33d371923D68fDe020303"
+    },
+    {
+        "name": "Psychedelics Anonymous Genesis",
+        "address": "0x75E95ba5997Eb235F40eCF8347cDb11F18ff640B"
+    },
+    {
+        "name": "DigiDaigaku",
+        "address": "0xd1258DB6Ac08eB0e625B75b371C023dA478E94A9"
+    },
+    {
+        "name": "WebbLand",
+        "address": "0xA1D4657e0E6507D5a94d06DA93E94dC7C8c44b51"
+    },
+    {
+        "name": "Gutter Cat Gang",
+        "address": "0xEdB61f74B0d09B2558F1eeb79B247c1F363Ae452"
+    },
+    {
+        "name": "DeGods",
+        "address": "0x8821BeE2ba0dF28761AffF119D66390D594CD280"
+    },
+    {
+        "name": "CoolmansUniverse",
+        "address": "0xa5C0Bd78D1667c13BFB403E2a3336871396713c5"
+    },
+    {
+        "name": "Murakami.Flowers",
+        "address": "0x7D8820FA92EB1584636f4F5b8515B5476B75171a"
+    },
+    {
+        "name": "VOX Series 1",
+        "address": "0xad9Fd7cB4fC7A0fBCE08d64068f60CbDE22Ed34C"
+    },
+    {
+        "name": "Metroverse City Block",
+        "address": "0x0e9d6552b85BE180d941f1cA73Ae3E318D2D4F1F"
+    },
+    {
+        "name": "Capsule",
+        "address": "0xfcB1315C4273954F74Cb16D5b663DBF479EEC62e"
+    },
+    {
+        "name": "Valhalla",
+        "address": "0x231d3559aa848Bf10366fB9868590F01d34bF240"
+    },
+    {
+        "name": "DEGEN TOONZ",
+        "address": "0x19b86299c21505cdf59cE63740B240A9C822b5E4"
+    },
+    {
+        "name": "TheCurrency",
+        "address": "0xaaDc2D4261199ce24A4B0a57370c4FCf43BB60aa"
+    },
+    {
+        "name": "SupDucks",
+        "address": "0x3Fe1a4c1481c8351E91B64D5c398b159dE07cbc5"
+    },
+    {
+        "name": "Town Star",
+        "address": "0xc36cF0cFcb5d905B8B513860dB0CFE63F6Cf9F5c"
+    },
+    {
+        "name": "Terraforms",
+        "address": "0x4E1f41613c9084FdB9E34E11fAE9412427480e56"
+    },
+    {
+        "name": "KILLABEARS",
+        "address": "0xc99c679C50033Bbc5321EB88752E89a93e9e83C5"
+    },
+    {
+        "name": "Impostors Genesis",
+        "address": "0x3110EF5f612208724CA51F5761A69081809F03B7"
+    },
+    {
+        "name": "Lives of Asuna",
+        "address": "0xAf615B61448691fC3E4c61AE4F015d6e77b6CCa8"
+    },
+    {
+        "name": "Adam Bomb Squad",
+        "address": "0x7AB2352b1D2e185560494D5e577F9D3c238b78C5"
+    },
+    {
+        "name": "Sneaky Vampire Syndicate",
+        "address": "0x219B8aB790dECC32444a6600971c7C3718252539"
+    },
+    {
+        "name": "CryptoSkulls",
+        "address": "0xc1Caf0C19A8AC28c41Fe59bA6c754e4b9bd54dE9"
+    },
+    {
+        "name": "Pixelmon",
+        "address": "0x32973908FaeE0Bf825A343000fE412ebE56F802A"
+    },
+    {
+        "name": "Dooplicator",
+        "address": "0x466CFcD0525189b573E794F554b8A751279213Ac"
+    },
+    {
+        "name": "Killer GF",
+        "address": "0x6bE69b2A9B153737887CfcdCa7781eD1511C7e36"
+    },
+    {
+        "name": "Checks",
+        "address": "0x036721e5A769Cc48B3189EFbb9ccE4471E8A48B1"
+    },
+    {
+        "name": "10KTF Stockroom",
+        "address": "0x7DaEC605E9e2a1717326eeDFd660601e2753A057"
+    },
+    {
+        "name": "Autoglyphs",
+        "address": "0xd4e4078ca3495DE5B1d4dB434BEbc5a986197782"
+    },
+    {
+        "name": "MURI",
+        "address": "0x4B61413D4392c806E6d0fF5Ee91E6073C21d6430"
+    },
+    {
+        "name": "oncyber labs",
+        "address": "0x226Bf5293692610692E2C996C9875C914d2A7f73"
+    },
+    {
+        "name": "Weirdo Ghost Gang",
+        "address": "0x9401518f4EBBA857BAA879D9f76E1Cc8b31ed197"
+    },
+    {
+        "name": "Chimpers",
+        "address": "0x80336Ad7A747236ef41F47ed2C7641828a480BAA"
+    },
+    {
+        "name": "The Memes by 6529",
+        "address": "0x33FD426905F149f8376e227d0C9D3340AaD17aF1"
+    },
+    {
+        "name": "Acclimated MoonCats",
+        "address": "0xc3f733ca98E0daD0386979Eb96fb1722A1A05E69"
+    }
+]
