@@ -7,6 +7,8 @@ from typing import Union
 import config
 import logging
 
+filter_coontract_list = True
+
 logging.basicConfig(level=logging.INFO)
 
 # init sql database connector
@@ -113,16 +115,24 @@ if __name__ == "__main__":
 
     logging.info(f"Contracts loaded: {len(contract_list)} contracts")
 
-    for index, contract_address in enumerate([contract["address"] for contract in contract_list]):
+    for index, contract in enumerate([contract for contract in contract_list]):
         try:
             logging.info(
-                f"Contract transaction collection started: {contract_address} [{index+1}/{len(contract_list)}]")
+                f"Contract transaction collection started: {contract['address']} [{index+1}/{len(contract_list)}]")
 
-            insert_contract_transactions(contract_address)
+            # filter contract list
+            if filter_coontract_list:
+                if not contract["collected"] and not contract["error"]:
+                    insert_contract_transactions(contract['address'])
+                else:
+                    logging.info(
+                        f"Contract transactions already collected and in db")
+            else:
+                insert_contract_transactions(contract['address'])
 
             logging.info(
-                f"Contract transaction collection done: {contract_address} [{index+1}/{len(contract_list)}]")
+                f"Contract transaction collection done: {contract['address']} [{index+1}/{len(contract_list)}]")
         except Exception as e:
             logging.error(
-                f"Error while collecting contract transactions: {contract_address} [{index+1}/{len(contract_list)}]")
+                f"Error while collecting contract transactions: {contract['address']} [{index+1}/{len(contract_list)}]")
             # raise e
