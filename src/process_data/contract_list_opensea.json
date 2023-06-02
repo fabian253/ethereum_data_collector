@@ -398,5 +398,105 @@
     {
         "name": "Acclimated MoonCats",
         "address": "0xc3f733ca98E0daD0386979Eb96fb1722A1A05E69"
+    },
+    {
+        "name": "Neo Tokyo: Outer Identities",
+        "address": "0x698FbAACA64944376e2CDC4CAD86eaa91362cF54"
+    },
+    {
+        "name": "Ragnarok",
+        "address": "0x497a9A79e82e6fC0FF10a16f6F75e6fcd5aE65a8"
+    },
+    {
+        "name": "My Pet Hooligan",
+        "address": "0x09233d553058c2F42ba751C87816a8E9FaE7Ef10"
+    },
+    {
+        "name": "LilPudgys",
+        "address": "0x524cAB2ec69124574082676e6F654a18df49A048"
+    },
+    {
+        "name": "MetaHero",
+        "address": "0x6dc6001535e15b9def7b0f6A20a2111dFA9454E2"
+    },
+    {
+        "name": "OnChainMonkey",
+        "address": "0x960b7a6BCD451c9968473f7bbFd9Be826EFd549A"
+    },
+    {
+        "name": "Quirkies",
+        "address": "0xD4B7D9bb20fA20dDADa9eCEf8a7355ca983cCCB1"
+    },
+    {
+        "name": "a KID called BEAST",
+        "address": "0x77372a4cc66063575b05b44481F059BE356964A4"
+    },
+    {
+        "name": "RumbleKongLeague",
+        "address": "0xEf0182dc0574cd5874494a120750FD222FdB909a"
+    },
+    {
+        "name": "Arcade Land",
+        "address": "0x4a8C9D751EEAbc5521A68FB080DD7E72E46462aF"
+    },
+    {
+        "name": "Jungle Freaks",
+        "address": "0x7E6Bc952d4b4bD814853301bEe48E99891424de0"
+    },
+    {
+        "name": "Bears Deluxe",
+        "address": "0x4BB33f6E69fd62cf3abbcC6F1F43b94A5D572C2B"
+    },
+    {
+        "name": "Lil Heroes",
+        "address": "0xD78b76Fcc33cd416dA9d3D42f72649a23D7AC647"
+    },
+    {
+        "name": "Tubby Cats",
+        "address": "0xCa7cA7BcC765F77339bE2d648BA53ce9c8a262bD"
+    },
+    {
+        "name": "Galactic Apes",
+        "address": "0x12d2D1beD91c24f878F37E66bd829Ce7197e4d14"
+    },
+    {
+        "name": "Nanopass",
+        "address": "0xf54cC94f1F2f5De012B6Aa51F1E7eBdc43Ef5afC"
+    },
+    {
+        "name": "10KTF",
+        "address": "0x0Cfb5d82BE2b949e8fa73A656dF91821E2aD99FD"
+    },
+    {
+        "name": "CryptoBatz by Ozzy Osbourne",
+        "address": "0xc8adFb4D437357D0A656D4e62fd9a6D22e401aa0"
+    },
+    {
+        "name": "Nouns",
+        "address": "0x9C8fF314C9Bc7F6e59A9d9225Fb22946427eDC03"
+    },
+    {
+        "name": "ForgottenRunesWizardsCult",
+        "address": "0x521f9C7505005CFA19A8E5786a9c3c9c9F5e6f42"
+    },
+    {
+        "name": "FULL SEND METACARD",
+        "address": "0x7eCb204feD7e386386CAb46a1fcB823ec5067aD5"
+    },
+    {
+        "name": "JRNY NFT Club",
+        "address": "0x0b4B2bA334f476C8F41bFe52A428D6891755554d"
+    },
+    {
+        "name": "MutantCats",
+        "address": "0xaAdBA140Ae5e4c8a9eF0Cc86EA3124b446e3E46A"
+    },
+    {
+        "name": "Treeverse",
+        "address": "0x1B829B926a14634d36625e60165c0770C09D02b2"
+    },
+    {
+        "name": "Land",
+        "address": "0x2C88aA0956bC9813505d73575f653F69ADa60923"
     }
 ]
