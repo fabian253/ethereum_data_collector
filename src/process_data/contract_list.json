@@ -970,7 +970,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -980,7 +980,7 @@
             "opensea"
         ],
         "collected": false,
-        "error": false
+        "error": true
     },
     {
         "name": "My Pet Hooligan",
@@ -988,7 +988,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -997,7 +997,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1006,7 +1006,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1016,7 +1016,7 @@
             "opensea"
         ],
         "collected": false,
-        "error": false
+        "error": true
     },
     {
         "name": "a KID called BEAST",
@@ -1024,7 +1024,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1033,7 +1033,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1042,7 +1042,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1051,7 +1051,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1060,7 +1060,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1069,7 +1069,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1078,7 +1078,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1087,7 +1087,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1096,7 +1096,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1106,7 +1106,7 @@
             "opensea"
         ],
         "collected": false,
-        "error": false
+        "error": true
     },
     {
         "name": "CryptoBatz by Ozzy Osbourne",
@@ -1114,7 +1114,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1123,7 +1123,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1132,7 +1132,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1141,7 +1141,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1150,7 +1150,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1159,7 +1159,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1168,7 +1168,7 @@
         "source": [
             "opensea"
         ],
-        "collected": false,
+        "collected": true,
         "error": false
     },
     {
@@ -1178,6 +1178,6 @@
             "opensea"
         ],
         "collected": false,
-        "error": false
+        "error": true
     }
 ]
