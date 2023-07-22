@@ -1,0 +1,524 @@
+[
+    {
+        "name": "DAOSquare Governance Token",
+        "address": "0xbD9908b0Cdd50386F92efCC8e1d71766C2782Df0",
+        "source": [
+            "ethereum.org"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Developer DAO",
+        "address": "0xb24cd494faE4C180A89975F1328Eab2a7D5d8f11",
+        "source": [
+            "ethereum.org"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "DXdao",
+        "address": "0xa1d65E8fB6e87b60FECCBc582F7f97804B725521",
+        "source": [
+            "ethereum.org"
+        ],
+        "collected": false,
+        "error": true
+    },
+    {
+        "name": "DAOhaus Token",
+        "address": "0xf2051511B9b121394FA75B8F7d4E7424337af687",
+        "source": [
+            "ethereum.org"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Heros Token",
+        "address": "0xb622400807765e73107B7196F444866D7EdF6f62",
+        "source": [
+            "ethereum.org"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "LexDAO",
+        "address": "0x63125c0d5Cd9071de9A1ac84c400982f41C697AE",
+        "source": [
+            "ethereum.org"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "MachiX Token",
+        "address": "0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8",
+        "source": [
+            "ethereum.org"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "MetaFactory",
+        "address": "0xfb5453340C03db5aDe474b27E68B6a9c6b2823Eb",
+        "source": [
+            "ethereum.org"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "MolochDAO",
+        "address": "0x1fd169A4f5c59ACf79d0Fd5d91D1201EF1Bce9f1",
+        "source": [
+            "ethereum.org"
+        ],
+        "collected": false,
+        "error": true
+    },
+    {
+        "name": "Aave",
+        "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": false,
+        "error": true
+    },
+    {
+        "name": "Lil Nouns",
+        "address": "0x4b10701Bfd7BFEdc47d50562b76b436fbB5BdB3B",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Rari Foundation",
+        "address": "0x096Bd9a7a2e703670088C05035e23c7a9F428496",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": false,
+        "error": true
+    },
+    {
+        "name": "Silo",
+        "address": "0x6f80310CA7F2C654691D1383149Fa1A57d8AB1f8",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Unlock",
+        "address": "0x90DE74265a416e1393A450752175AED98fe11517",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": false,
+        "error": true
+    },
+    {
+        "name": "Reflexer Ungovernor",
+        "address": "0x6243d8CEA23066d098a15582d81a598b4e8391F4",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": false,
+        "error": true
+    },
+    {
+        "name": "Antfarm DAO",
+        "address": "0xDCd2B58585DF999DD145e529f09e8ACaFA6cd244",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Uniswap",
+        "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": false,
+        "error": true
+    },
+    {
+        "name": "ENS",
+        "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": false,
+        "error": true
+    },
+    {
+        "name": "Gitcoin",
+        "address": "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Compound",
+        "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": false,
+        "error": true
+    },
+    {
+        "name": "Hop",
+        "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Yam Finance",
+        "address": "0x0AaCfbeC6a24756c20D41914F2caba817C0d8521",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Ondo DAO",
+        "address": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Dope Wars",
+        "address": "0x8707276DF042E89669d69A177d3DA7dC78bd8723",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "SpellsDAO",
+        "address": "0x7fef3f3364C7d8B9BFabB1b24D5CE92A402c6Bd3",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": false,
+        "error": true
+    },
+    {
+        "name": "Euler",
+        "address": "0xd9Fcd98c322942075A5C3860693e9f4f03AAE07b",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "TrueFi",
+        "address": "0x23696914Ca9737466D8553a2d619948f548Ee424",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": false,
+        "error": true
+    },
+    {
+        "name": "Gas Dao",
+        "address": "0x6Bba316c48b49BD1eAc44573c5c871ff02958469",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "PoolTogether",
+        "address": "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "DaxioDAO",
+        "address": "0x431B366BE6069aE62f8121a901C6160B34Af7F80",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": false,
+        "error": true
+    },
+    {
+        "name": "Indexed",
+        "address": "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Tribe NopeDAO",
+        "address": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Fei",
+        "address": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "SoftDAO",
+        "address": "0xfE3B138879D6d0555bE4132DcfE6E7424E257A2E",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Ampleforth",
+        "address": "0x77FbA179C79De5B7653F68b5039Af940AdA60ce0",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Hifi DAO",
+        "address": "0x4b9278b94a1112cAD404048903b8d343a810B07e",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Inverse",
+        "address": "0x41D5D79431A913C4aE7d69a668ecdfE5fF9DFB68",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "sudoswap DAO",
+        "address": "0x3446Dd70B2D52A6Bf4a5a192D9b0A161295aB7F9",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Radicle",
+        "address": "0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Idle DAO",
+        "address": "0x875773784Af8135eA0ef43b5a374AaD105c5D39e",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Blur",
+        "address": "0x5283D291DBCF85356A21bA090E6db59121208b44",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": false,
+        "error": true
+    },
+    {
+        "name": "WEN DAO",
+        "address": "0x830a8512db4F6fCA51968593E2667156C2c483A8",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Babylon Finance",
+        "address": "0xF4Dc48D260C93ad6a96c5Ce563E70CA578987c74",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Inedible",
+        "address": "0x3486b751a36F731A1bEbFf779374baD635864919",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "InstaDapp",
+        "address": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Threshold Network",
+        "address": "0xCdF7028ceAB81fA0C6971208e83fa7872994beE5",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Unslashed",
+        "address": "0xE0e05c43c097B0982Db6c9d626c4eb9e95C3b9ce",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Angle",
+        "address": "0x31429d1856aD1377A8A0079410B297e1a9e214c2",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Aggregated Finance",
+        "address": "0x4D0F56d728c5232ab07fAA0BdcbA23670A35451f",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Cryptex",
+        "address": "0x321C2fE4446C7c963dc41Dd58879AF648838f98D",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Braintrust",
+        "address": "0x799ebfABE77a6E34311eeEe9825190B9ECe32824",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Bprotocol",
+        "address": "0xbbBBBBB5AA847A2003fbC6b5C16DF0Bd1E725f61",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Bambi Cash DAO",
+        "address": "0x9DB0FB0Aebe6A925B7838D16e3993A3976A64AaB",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Pooh",
+        "address": "0xB69753c06BB5c366BE51E73bFc0cC2e3DC07E371",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "0xPlasma DAO",
+        "address": "0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "GuildFi",
+        "address": "0xc747F9D3E6B34596977e79F09a2aB122042673E1",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": true,
+        "error": false
+    },
+    {
+        "name": "Ooki",
+        "address": "0x0De05F6447ab4D22c8827449EE4bA2D5C288379B",
+        "source": [
+            "tally.xyz"
+        ],
+        "collected": false,
+        "error": true
+    },
+    {
+        "name": "BitDAO",
+        "address": "0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5",
+        "source": [
+            "bitdao.io"
+        ],
+        "collected": true,
+        "error": false
+    }
+]

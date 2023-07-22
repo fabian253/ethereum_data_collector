@@ -110,7 +110,7 @@ def insert_contract_transactions(contract_address: str,
 
 if __name__ == "__main__":
     # load contract list
-    with open("src/process_data/contract_list.json", "r") as f:
+    with open("src/process_data/dao_contract_list.json", "r") as f:
         contract_list = json.load(f)
 
     logging.info(f"Contracts loaded: {len(contract_list)} contracts")
